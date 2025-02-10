@@ -1,8 +1,8 @@
 ## Hello, I´M JULIET 
 
-[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/erikaceciliaochoa)
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/erikaceciliaochoa/)
-[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:erikaceciliaochoa@gmail.com)
+[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/jyliet13)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/juliet-acevedo/)
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:julietteacv13@hotmail.com)
 
 
 
@@ -15,15 +15,20 @@
 - :earth_asia: I'm living now in **Spain**
 - :sweat_smile: I'm a intermediate in coding :penguin:
 
-  <h4>Programming Languages: </h4>
+  <h4>Skills and Tools: </h4>
 <p align="left">
- <img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/cpp.png" alt=cplusplus width="60" height="60"/>
- <img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/c.png" alt=c width="60" height="60"/>
+ 
  <img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/python.png" alt=python width="60" height="60"/>
-  <img  style="margin: auto;" src="https://skillicons.dev/icons?i=cs, css, dotnet" alt=python width="60" height="60" />
+  <img  style="margin: auto;" src="https://skillicons.dev/icons?i=cs,java " alt=cs width="60" height="60" />
+   <img  style="margin: auto;" src="https://skillicons.dev/icons?i=html,css,dotnet" alt=css width="100" height="60" />
 </p>
 
 <h4>Desktop Environment: </h4>
 <p align="left">
-    <img  style="margin: auto;" src="https://skillicons.dev/icons?i=discord" alt=python width="60" height="60" />
+    <img  style="margin: auto;" src="https://skillicons.dev/icons?i=mysql,nodejs,postman,powershell,spring,sklearn,sequelize,terraform,bootstrap" alt=discord width="500" height="200" />
+</p>
+
+<h4>Desktop Environment: </h4>
+<p align="left">
+    <img  style="margin: auto;" src="https://skillicons.dev/icons?i=discord,git,idea,linux,pycharm,sublime,ubuntu,visualstudio,vscode,windows" alt=discord width="500" height="200" />
 </p>
